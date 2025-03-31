@@ -3,8 +3,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="bar_color">#1b2433</color>
-    <color name="text_color">#A2D9EC</color>
-    <color name="background_color">#66847e</color>
-    <color name="orange_color">#FF6F00</color>
-
+    <color name="text_color">#66847e</color>
+    <color name="background_color">#1b2433</color>
 </resources>
